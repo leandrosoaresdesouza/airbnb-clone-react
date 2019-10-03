@@ -17,7 +17,7 @@ export default function Login({ history }) {
 
   return (
     <>
-      <p>Oferença <strong>spots</strong> para programadores e encontre <strong>talentos</strong> para sua empresa</p>
+      <p>Ofereça <strong>spots</strong> para programadores e encontre <strong>talentos</strong> para sua empresa</p>
 
       <form onSubmit={handleSubmit}>
         <label htmlFor="email">E-MAIL *</label>
